@@ -1,0 +1,67 @@
+body {
+  background: #ccc;
+}
+
+h2 {
+  display: inline-block;
+  font-family: Gill Sans;
+  color: #999;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin: 0;
+  margin-right: 15px;
+}
+
+.info {
+  float: left;
+  padding-left: 30px;
+  width: 450px;
+  height: 50px;
+}
+
+.current {
+  display: inline-block;
+  width: 125px;
+  height: 36.5px;
+  border-radius: 5%;
+  margin: 5px;
+}
+
+#container {
+  width: 72%;
+  height: 670px;
+  padding: 2%;
+  background: #e5e5e5;
+  margin: 0 auto;
+  margin-top: 2%;
+  border-radius: 3.5%;
+  box-shadow: 0 0 20px #999;
+}
+
+#palette-container {
+  height: auto;
+}
+
+.canvas {
+  margin: 0 auto;
+}
+
+.pixel {
+  width: 23px;
+  height: 23px;
+  background: white;
+  border: 1px solid #e5e5e5;
+  float: left;
+}
+
+.palette{
+  width: 36.5px;
+  height: 36.5px;
+  float: left;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.palette {
+  border: 1px solid #e5e5e5;
+}
