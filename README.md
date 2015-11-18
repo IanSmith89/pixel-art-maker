@@ -7,5 +7,3 @@ Plans for the future include adding options to change dimensions of the canvas, 
 <img src="Luigi.png" />
 
 <img src="fireFlower.png" />
-
-<img src="pixels.png" />
