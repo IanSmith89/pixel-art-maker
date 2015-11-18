@@ -5,7 +5,6 @@ body {
 h2 {
   font-size: 1.75em;
   float: left;
-  display: inline-block;
   font-family: Gill Sans;
   color: #999;
   font-weight: 400;
@@ -32,10 +31,10 @@ h2 {
 #container {
   width: 72%;
   height: 670px;
-  padding: 2%;
   background: #e5e5e5;
   margin: 0 auto;
   margin-top: 2%;
+  padding: 2%;
   border-radius: 3.5%;
   box-shadow: 0 0 20px #999;
 }
